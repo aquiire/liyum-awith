@@ -4435,380 +4435,378 @@ TV එකේ තරම් ලස්සන
 
 1001
 01:01:48,412 --> 01:01:49,902
-Do you mind if I borrow this chair?
+මේ පුටුව ගත්තට කමක් නැද්ද?
 
 1002
 01:01:50,080 --> 01:01:51,877
-Yes, I mind. Sorry.
+ගන්න බෑ. සමාවෙන්න.
 
 1003
 01:01:52,149 --> 01:01:53,946
-I'm expecting someone.
+කෙනෙක් එනවා දැං.
 
 1004
 01:02:07,965 --> 01:02:10,024
-Would you like another tea?
+තව තේ එකක්?
 
 1005
 01:02:10,434 --> 01:02:11,924
-Yes. Thank you.
+දෙන්න. ස්තුතියි.
 
 1006
 01:02:45,235 --> 01:02:47,100
-Kathleen Kelly.
+කැත්ලීන් කෙලී.
 
 1007
 01:02:47,571 --> 01:02:50,472
-Hello. This is a coincidence.
-Would you mind if I sat down?
+හලෝ. මේක අහම්බයක්.
+මෙතැන වාඩි උනාට කමක් නෑනේ?
 
 1008
 01:02:50,741 --> 01:02:53,801
-Yes, I would, actually.
-I'm expecting someone.
+එපා.
+දං කෙනෙක් එනවා.
 
 1009
 01:02:55,012 --> 01:02:56,570
-<i>Pride and Prejudice.</i>
+<i>ප්‍රේමයක අරුමය.</i>
 
 1010
 01:02:56,813 --> 01:02:57,905
-Do you mind?
+පොඩ්ඩක්?
 
 1011
 01:02:58,081 --> 01:03:01,141
-I bet you read that book every year.
-I bet you just love that...
+මට ෂුවර් ඔයා මේ පොත හැම අවුරුද්දෙම කියවනවා.
+මට ෂුවර් ඔයා ගොඩක් කැමැතියි කවුද...
 
 1012
 01:03:01,418 --> 01:03:03,079
-...Mr. Darcy.
+...ඩාර්සි මහත්තයාට.
 
 1013
 01:03:03,320 --> 01:03:06,517
-Your sentimental heart beats
-wildly at the thought he and...
+ඔයාගේ සංවේදී හදවත 
+ගැහෙනවා එයයි...
 
 1014
 01:03:06,723 --> 01:03:11,490
-...whatever her name is are truly,
-honestly going to end up together.
+...කවුද අර ගෑනු කෙනයි 
+කවද හරි එකතු වෙයිද කියලා.
 
 1015
 01:03:15,332 --> 01:03:17,596
-- Can I get you something?
-- No, he's not staying.
+- මොනවහරි?
+- නෑ එයා නවතින්නේ නෑ.
 
 1016
 01:03:17,768 --> 01:03:19,360
-Mochaccino decaf, nonfat.
+මොචාචිනෝ ඩිකැෆ්, නන්ෆැට්.
 
 1017
 01:03:19,536 --> 01:03:21,504
-You are not staying.
+ඔයා නවතින්නේ නෑනේ.
 
 1018
 01:03:21,672 --> 01:03:23,663
-I'll just stay here until
-your friend gets here.
+ඔයාගේ යාළුවා එනකම් මම ඉන්නම්.
 
 1019
 01:03:25,175 --> 01:03:26,301
-Gee, is he late?
+අම්මෝ එයා පරක්කුයි වගේ?
 
 1020
 01:03:26,643 --> 01:03:29,806
-<i>The heroine of Pride and Prejudice
-is Elizabeth Bennet.</i>
+<i>ප්‍රේමයක අරුමයේ වීරවරිය 
+එලිසබෙත් බෙනට්.</i>
 
 1021
 01:03:30,047 --> 01:03:33,539
-She is a great and complex character.
-Not that you would know.
+එයා ශ්‍රේෂ්ඨ වැදගත් චරිතයක්.
+ඔයා කොහොමද ඒක දන්නේ.
 
 1022
 01:03:33,817 --> 01:03:35,648
-As a matter of fact, I've read it.
+ඇත්තටම, මම කියවලා තියනව ඒක.
 
 1023
 01:03:35,886 --> 01:03:37,114
-Well, good for you.
+ආ බොහොම හොඳයි.
 
 1024
 01:03:37,854 --> 01:03:40,049
-You'd discover a lot
-if you really knew me.
+මාව ඇත්තටම දන්නවනං
+ඔයා පුදුම වෙයි.
 
 1025
 01:03:40,657 --> 01:03:42,318
-I know what I'd find.
+මං තේරුං අරන් ඉන්නේ.
 
 1026
 01:03:42,559 --> 01:03:46,552
-Instead of a brain, a cash register.
-Instead of a heart, a bottom line.
+මොළේ වෙනුවට, සල්ලි ලාච්චුවකුයි.
+හදවත වෙනුවට, ලාබාංශ ගිණුමකුයි.
 
 1027
 01:03:50,200 --> 01:03:51,292
-What?
+මොකා?
 
 1028
 01:03:51,535 --> 01:03:53,833
-- I just had a breakthrough.
-- What is it?
+- මට මේක විස්වාස කරන්න බෑ.
+- මොකද්ද?
 
 1029
 01:03:54,004 --> 01:03:58,907
-For the first time, when confronted
-with a horrible, insensitive person...
+පළවෙනි වතාවට සංවේදී කමක් වත් නැති
+ජරා කෙනෙක්ට...
 
 1030
 01:03:59,176 --> 01:04:01,644
-...I knew exactly what I
-wanted to say, and I said it.
+...කියන්න ඕනෙ දේ කෙලින්ම
+කියලා දැම්මා.
 
 1031
 01:04:02,312 --> 01:04:06,009
-You have a gift for it. That was a
-perfect blend of poetry and meanness.
+ඔයාට ඒක පිහිටලා තියනවා. ඒක 
+කවිකමෙයි නපුරු කමෙයි එකතුවක්.
 
 1032
 01:04:06,516 --> 01:04:08,381
-Meanness?
-Let me tell you about meanness.
+නපුරු?
+නපුරු කවුද කියලා මම කියන්නම්.
 
 1033
 01:04:08,552 --> 01:04:12,044
-Don't misunderstand me.
-I'm trying to pay you a compliment.
+නුහුරටමනෙ ගන්නේ.
+මම හොඳක් කිව්වේ.
 
 1034
 01:04:12,789 --> 01:04:14,188
-- What are you doing?
-- What is this?
+- මොකද්ද කරන්නේ?
+- මේ මොකද්ද?
 
 1035
 01:04:14,391 --> 01:04:17,485
-Is this a red Rose?
-No, it's a crimson Rose.
+මේ රතු රෝස මලක්ද?
+නෑ ලේ රතු එකක්.
 
 1036
 01:04:17,728 --> 01:04:19,355
-Something you read about in a book.
+ඔයා පොතක කියවපු එකක් 
+වෙන්න ඇති.
 
 1037
 01:04:19,529 --> 01:04:23,522
-It's funny to you, isn't it?
-Everything is a joke to you.
+ඒක විහිළුවක්නේ ඔයාට?
+හැමදෙයක්ම ඔයාට විහිළුවක්.
 
 1038
 01:04:33,210 --> 01:04:34,438
-Please leave.
+කරුණාකරල යන්න.
 
 1039
 01:04:34,678 --> 01:04:36,305
-Please leave, I beg you.
+වඳින්නම් යන්න.
 
 1040
 01:04:44,021 --> 01:04:45,386
-Thank you.
+ස්තුතියි.
 
 1041
 01:05:06,710 --> 01:05:09,736
-That hanky reminds me
-of the first day I met you.
+ඔය ලේන්සුව දැකල අපි හම්බෙච්ච
+පළවෙනි දවස මතක් උනා.
 
 1042
 01:05:09,980 --> 01:05:11,880
-First day you lied to me.
+ඔයා මට බොරු කියපු පළවෙනි 
+දවස.
 
 1043
 01:05:12,115 --> 01:05:14,049
-- I didn't lie to you.
-- You did too.
+- මම බොරු කිව්වේ නෑ.
+- කිව්ව තමයි.
 
 1044
 01:05:14,217 --> 01:05:15,548
-- No, I didn't.
-- Yes, you did.
+- නෑ මම කීවේ නෑ.
+- ඔව් කීවා.
 
 1045
 01:05:15,719 --> 01:05:17,380
-- I did not.
-- You did too.
+- කිව්වේ නෑ.
+- කිව්වා තමා.
 
 1046
 01:05:17,554 --> 01:05:19,283
-- I did not.
-- You did too.
+- කිව්වේ නෑ.
+- කිව්වා තමා.
 
 1047
 01:05:19,456 --> 01:05:22,584
-I thought that Fox stuff
-was so charming. F-O-X.
+මම හිතුවේ අර ෆොක්ස් කතාව
+කොච්චඑ හුරතල්ද කියලා. F-O-X.
 
 1048
 01:05:22,759 --> 01:05:24,124
-I didn't lie about it.
+මම බොරු කිව්වේ නෑ ඒ ගැන.
 
 1049
 01:05:25,562 --> 01:05:28,224
-- Joe? "Just call me Joe."
-- Sure.
+- ජෝ? "මට ජෝ කියන්න."
+- ඉතිං මොකෝ.
 
 1050
 01:05:28,498 --> 01:05:31,433
-As if you were a stupid
-22-year-old girl with no last name.
+නිකං අර වාසගමක්වත් කියන්නේ නැති
+අවුරුදු 22ක කෙල්ලක් වගේ.
 
 1051
 01:05:31,668 --> 01:05:33,761
-"Hi, I'm Kimberly."
-"Hi, I'm Janice."
+"හායි, මම කිම්බර්ලි."
+"හායි, මම ජැනිස්."
 
 1052
 01:05:34,004 --> 01:05:36,165
-Don't they know you're
-supposed to have a last name?
+වාසගමක් තියෙන්න ඕන කියලා
+දන්නෙ නැද්ද?
 
 1053
 01:05:36,373 --> 01:05:38,637
-It's like an entire
-generation of cocktail waitresses.
+ඒක මුළු කොක්ටේල්
+වේටර් පරපුරක්.
 
 1054
 01:05:38,809 --> 01:05:40,071
-Look.
+බලන්න.
 
 1055
 01:05:41,878 --> 01:05:45,473
-- I am not a 22-year-old cocktail waitress.
-- That's not what I meant.
+- මම 22 කොක්ටේල් වේටර් කෙනෙක් නෙවේ
+- එහෙම කතාවක් මම කිවේ නෑ
 
 1056
 01:05:45,649 --> 01:05:48,140
-When I said the thing about
-the Price Club and olive oil...
+මම අර ප්‍රයිස් ක්ලබ් ගැන 
+කියනකොට අදහස් කළේ...
 
 1057
 01:05:48,318 --> 01:05:49,478
-...that's not what I meant.
+...එහෙම එකක් නෙවෙයි.
 
 1058
 01:05:49,653 --> 01:05:53,851
-You poor, sad multimillionaire.
-I feel so sorry for you.
+අනේ පව් කෝටිපතියා.
+දුකයි මට.
 
 1059
 01:05:59,930 --> 01:06:02,831
-I'll take a wild guess
-that's not him, either.
+මට හිතෙන්නේ එයා වෙන්නත් බෑ.
 
 1060
 01:06:04,267 --> 01:06:06,758
-So who is he, I wonder?
+කවුද ඇත්තටම එයා?
 
 1061
 01:06:06,970 --> 01:06:09,461
-Certainly not
-the world's greatest expert...
+ජුලියස් හා එතල් රොසන්බර්ග්...
 
 1062
 01:06:09,706 --> 01:06:11,765
-...on Julius and Ethel Rosenberg.
+...විශේෂඥයා වෙන්න බෑ.
 
 1063
 01:06:12,442 --> 01:06:14,808
-But somebody else entirely different.
+වෙනස්ම කෙනෙක් වෙන්න ඕනෙ.
 
 1064
 01:06:15,545 --> 01:06:17,445
-Will you be mean to him too?
+ඔයා එයාටත් මෙහෙමද සලකන්නේ?
 
 1065
 01:06:17,714 --> 01:06:19,113
-No, I will not.
+නෑ, මම එහෙම කරන්නේ නෑ.
 
 1066
 01:06:19,616 --> 01:06:22,813
-The man who is coming here
-is completely unlike you.
+එයා ඔයාට වඩා හාත්පසින්ම
+වෙනස් කෙනෙක්.
 
 1067
 01:06:23,053 --> 01:06:26,113
-The man who is coming here
-is kind and funny.
+එයා කරුණාවන්ත හරි විහිළු 
+කෙනෙක්.
 
 1068
 01:06:26,356 --> 01:06:28,620
-He's got a wonderful sense of humor.
+එයාට හොඳ උපහාස රසයක් තියනවා.
 
 1069
 01:06:28,859 --> 01:06:30,121
-But...
+හැබැයි...
 
 1070
 01:06:30,627 --> 01:06:32,026
-...he's not here.
+...එයා තවම නෑ.
 
 1071
 01:06:33,130 --> 01:06:35,223
-If he's not, he has a reason...
+එහෙම නැත්තං, හේතුවක් ඇති...
 
 1072
 01:06:35,432 --> 01:06:38,560
-...because there is not a cruel
-or careless bone in his body.
+...එයාට අකාරුණික නොසැලකිලිමත්
+කමක් ගෑවිලාවත් නෑ.
 
 1073
 01:06:38,802 --> 01:06:41,032
-I wouldn't expect you to understand
-anybody like that.
+මම බලාපොරොත්තු වෙන්නේ නෑ ඔයාට
+එයාව තේරුම් ගත හැකියි කියලා.
 
 1074
 01:06:41,204 --> 01:06:46,141
-You with your theme park, multi-level,
-homogenize-the-world Mochaccinoland.
+තියාගන්න ඔයාගේ මයලොකු පොත්කඩේ.
 
 1075
 01:06:46,376 --> 01:06:50,938
-You've deluded yourself that you're a
-benefactor bringing books to the masses.
+හිතන් ඉන්නේ ජනතා සේවයක් කරනෝ
+කියලා.
 
 1076
 01:06:51,181 --> 01:06:53,809
-But no one will ever
-remember you, Joe Fox.
+ඔයාව නිකම්ම මිනිස්සුන්ට 
+අමතක වෙලා යයි ජෝ ෆොක්ස්.
 
 1077
 01:06:54,084 --> 01:06:56,450
-And maybe no one will remember me.
+මාවත් සමහරවිට අමතක වෙයි.
 
 1078
 01:06:56,653 --> 01:06:58,712
-But plenty of people
-remember my mother.
+ඒත් ගොඩක් අයට අපේ 
+අම්මව තාම මතකයි.
 
 1079
 01:06:58,889 --> 01:07:00,254
-They think she was fine.
+ඒගොල්ල තාම ඇයට ගරු කරනවා.
 
 1080
 01:07:00,457 --> 01:07:03,051
-They think her store
-was something special.
+ඒගොල්ලෝ අම්මගේ 
+යම් දෙයක් දැක්කා.
 
 1081
 01:07:04,494 --> 01:07:06,985
-You are nothing but a suit.
+ඔයා නිකම්ම නිකං සූට් එකක් විතරයි.
 
 1082
 01:07:20,677 --> 01:07:22,406
-That's my cue.
+මට යන්න වෙලාව හරි.
 
 1083
 01:07:26,016 --> 01:07:27,540
-Good night.
+සුබ රැයක්.
 
 1084
 01:08:42,492 --> 01:08:46,451
