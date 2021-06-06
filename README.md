@@ -5,3 +5,7 @@ You've got mail නම් වූ සිත්තර පටියේ සිංහ
 ## බොරු වචන:
 
 - යුනාබෝමර් - [Unabomber](https://en.wikipedia.org/wiki/Ted_Kaczynski)
+
+## Contributors
+
+- බක්කරේ
