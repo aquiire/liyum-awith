@@ -5,7 +5,7 @@ INPUT = "You've Got Mail (si).srt"
 OUTPUT = "out.srt"
 START = 1411
 END = -1
-SHIFT = timedelta(milliseconds=500)
+SHIFT = timedelta(milliseconds=1000)
 
 with open(INPUT) as f:
     subs = list(srt.parse(f.read()))
